@@ -1,1 +1,5 @@
 #programa que calcula a velocidade media
+
+
+
+#print("A velocida média será calculada")
